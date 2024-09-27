@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am Karan pursuing my Bachelor's degree in Computer Science and Engineering.
 <!--
 **Karan-31-05/Karan-31-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
