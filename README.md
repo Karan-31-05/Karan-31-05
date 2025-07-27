@@ -1,5 +1,5 @@
 # 💫 About Me:
- <br>🤝 I'm looking to collaborate on open-source full-stack projects.  <br>🌱 I'm currently learning Full Stack Development (MERN) and diving into AI integrations.  <br>💡 Ask me about web development, Node.js, and Linux setup.  <br>⚡ Fun fact: I love automating tasks and experimenting with new tech!
+ <br>🤝 I'm looking to collaborate on open-source full-stack projects.  <br>🌱 I'm currently learning Power BI and Big Data.  <br>💡 Ask me about Data, AI/ML and DS.  <br>⚡ Fun fact: I love automating tasks and experimenting with new tech!
 
 
 ## 🌐 Socials:
